@@ -8,7 +8,7 @@ I believe that *most* people that do work on the console eventually make the rea
 
 Both of these solutions work great and save the user a lot of time when navigating around. The main problem with these solutions though is that they end up being cumbersome to maintain as the number of directories grow. Symlinks can also clutter your home directory while it can be hard to remember all the aliases.
 
-Go is a relatively simple bash (or zsh) function that allows you to easily bookmark directories, list and jump to them at will. It also has some convenience addons like doing an `ls` automatically after moving to a directory.
+Go is a relatively simple bash (or zsh) function that allows you to easily bookmark directories, list and jump to them at will. It also has some convenience addons like doing an `ls` automatically after moving to a directory...
 
 ## Installation
 
